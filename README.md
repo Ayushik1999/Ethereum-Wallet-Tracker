@@ -1,3 +1,1 @@
-"# Ethereum-Wallet-Tracker" 
-"# Ethereum-Wallet-Tracker" 
-"# Ethereum-Wallet-Tracker" 
+Python scripts to interact with the Etherscan API. Fetch Ethereum account balances, retrieve and merge regular/internal transactions, and visualize balance changes over time using Matplotlib. Includes customizable API queries for blockchain analytics and data exploration.
